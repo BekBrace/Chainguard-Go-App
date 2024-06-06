@@ -60,4 +60,4 @@ Your Name - @yourtwitter
 Project Link: https://github.com/yourusername/books-cli
 ```
 
-# Feel free to adjust any part of this template to better fit your project or personal style!
+## Feel free to adjust any part of this template to better fit your project or personal style!

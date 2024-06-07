@@ -54,7 +54,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
-Your Name - @yourtwitter
+Twitter - @bekbrace
 
 ```
 Project Link: https://github.com/yourusername/books-cli

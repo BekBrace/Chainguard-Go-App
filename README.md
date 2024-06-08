@@ -17,8 +17,8 @@ Before you begin, ensure you have the Go programming language installed on your 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/books-cli.git
-cd books-cli
+git clone https://github.com/yourusername/books-cli.git](https://github.com/BekBrace/Chainguard-Go-App.git
+cd Chainguard-Go-App
 ```
 Build the application:
 ```bash
@@ -27,13 +27,13 @@ go build
 Usage
 To search for books by a specific author, run the following command in your terminal:
 ```bash
-./books search "Author Name"
+./go_books_cli search "Author Name"
 ```
 Replace "Author Name" with the name of the author whose books you want to search.
 # Examples
 ## Here's how you can search for books by J.K. Rowling:
 ```bash
-./books search "J.K. Rowling"
+./go_books_cli search "J.K. Rowling"
 ```
 Output:
 ```Books found:
@@ -55,7 +55,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
 Twitter - @bekbrace
-
-```
-Project Link: https://github.com/yourusername/books-cli
-```
+## Happy coding!
